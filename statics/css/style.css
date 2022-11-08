@@ -1554,7 +1554,7 @@ ol.digit-list p {
 .wscenterlogo img {
   width: auto;
   max-width: inherit;
-  max-height: 45px;
+  max-height: 100px;
   -webkit-transition: all 450ms ease-in-out;
   -moz-transition: all 450ms ease-in-out;
   -o-transition: all 450ms ease-in-out;
@@ -1563,11 +1563,11 @@ ol.digit-list p {
 }
 
 .wscenterlogo img {
-  max-height: 50px;
+  max-height: 80px;
 }
 
 .scroll .wscenterlogo img {
-  max-height: 45px;
+  max-height: 70px;
 }
 
 /*------------------------------------------*/
